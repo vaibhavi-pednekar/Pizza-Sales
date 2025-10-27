@@ -13,8 +13,8 @@ It helps uncover the most popular pizzas, category-wise sales, and peak order ti
 1. Data Cleaning & Transformation
 2. Joins and Relationships
 3. Aggregate Functions (SUM, COUNT, AVG, ROUND)
-
 4.Revenue & Quantity Analysis
+
 5.Time-based Sales Analysis
 
 **Data Source**
