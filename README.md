@@ -21,6 +21,16 @@ It helps uncover the most popular pizzas, category-wise sales, and peak order ti
 The dataset used in this project was provided by Wscubtech as part of their SQL learning resources. 
 It includes detailed information on pizza types, categories, orders, and revenue — ideal for practicing SQL-based data analysis.
 
+**Bussiness Insights**
+
+Helped identify top-performing pizza types that drive the majority of sales and revenue.
+
+Revealed peak sales hours, allowing better staff scheduling and inventory management during high-demand periods.
+
+Category-wise analysis provided insights into customer preferences (e.g., Veg vs. Non-Veg pizzas).
+
+Highlighted low-performing pizzas, supporting decisions for product improvement or menu optimization.
+
 **Features**
 
 Analyze pizza sales trends using SQL queries📈
