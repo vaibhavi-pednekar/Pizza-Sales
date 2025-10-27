@@ -13,6 +13,7 @@ It helps uncover the most popular pizzas, category-wise sales, and peak order ti
 1. Data Cleaning & Transformation
 2. Joins and Relationships
 3. Aggregate Functions (SUM, COUNT, AVG, ROUND)
+   
 4.Revenue & Quantity Analysis
 
 5.Time-based Sales Analysis
@@ -26,5 +27,6 @@ It includes detailed information on pizza types, categories, orders, and revenue
 
 Analyze pizza sales trends using SQL queries📈
 Find top-selling pizzas and revenue contributions
+
 Discover peak order hours and category-wise performance
 <img width="1115" height="656" alt="Screenshot 2025-10-27 215233" src="https://github.com/user-attachments/assets/857b8fb7-4221-40a6-b5e1-8c8ed0b7de53" />
